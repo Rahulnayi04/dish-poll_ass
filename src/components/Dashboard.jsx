@@ -23,7 +23,7 @@ function DashBoard() {
           </Link>
         </div>
         {/* welcome text on dashboard */}
-        <Typewriter
+        {/* <Typewriter
           options={{
             strings: [
               'Welcome To Dish Voting App!',
@@ -37,7 +37,7 @@ function DashBoard() {
             cursorClassName: styles.cursor,
             pauseFor: 2500,
           }}
-        />
+        /> */}
       </HomeWrapper>
     </div>
   )
