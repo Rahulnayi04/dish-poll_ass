@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect'
 import { Navbar } from './'
 function DashBoard() {
   return (
-    <div className='App'>
+    <div >
       <Navbar />
       <HomeWrapper>
         <div className={styles.links}>

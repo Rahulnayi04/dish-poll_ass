@@ -6,9 +6,12 @@
 }
 
 .button {
+  margin: 0% 10% 0% 10%;
   padding: 1em;
   color: #fff;
   border-radius: 1em;
+  margin-right: 5px;
+  width: 100%;
 }
 
 .results {

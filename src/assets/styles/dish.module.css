@@ -10,7 +10,8 @@ ul {
   position: relative;
   top: 4em;
   left: 15em;
-  color: #c3c3c3;
+  color: black;
+  font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
