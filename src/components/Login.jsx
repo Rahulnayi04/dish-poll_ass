@@ -7,28 +7,18 @@ import Toast from 'react-hot-toast'
 const users =  [
   {
     "id": 1,
-    "username": "amar",
-    "password": "amar123"
+    "username": "rahul",
+    "password": "rahul123"
   },
   {
     "id": 2,
-    "username": "akbar",
-    "password": "akbar123"
+    "username": "dummy",
+    "password": "dummy123"
   },
   {
     "id": 3,
-    "username": "antony",
-    "password": "antony123"
-  },
-  {
-    "id": 4,
-    "username": "john",
-    "password": "john123"
-  },
-  {
-    "id": 5,
-    "username": "paul",
-    "password": "paul123"
+    "username": "ace",
+    "password": "ace123"
   }
 ]
 
