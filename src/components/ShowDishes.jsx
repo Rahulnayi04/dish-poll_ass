@@ -18,7 +18,7 @@ const ShowDishes = () => {
   useEffect(() => {
     const fetchDishes = async () => {
       const response = await axios.get(
-        'https://raw.githubusercontent.com/syook/react-dishpoll/main/db.json'
+        'https://github.com/Rahulnayi04/dish-poll_ass/blob/main/src/db/db.json'
       )
       setDishes(response.data)
       if (!localStorage.getItem('itemList')) {
